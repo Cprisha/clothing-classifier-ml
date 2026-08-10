@@ -19,7 +19,8 @@ A multi-modal PyTorch pipeline for automated clothing attribute classification a
 
 ## Why this code
 
-What a cloth feels like is not necessarily what the cloth actually is. Eyes can be deceiving but alas it's what one sees of your clothes that makes a difference. This was my attempt of using computer vision to describe a single clothing article.
+- What a cloth feels like is not necessarily what the cloth actually is. Eyes can be deceiving but alas it's what one sees of your clothes that makes a difference. This was my attempt of using computer vision to describe a single clothing article.
+
 ---
 
 ## Features
