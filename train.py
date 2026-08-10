@@ -20,7 +20,7 @@ BATCH_SIZE = 13
 EPOCHS = 6
 LEARNING_RATE = 1e-3
 
-TEXT_DIM = 78
+TEXT_DIM = 64
 
 maps = {}
 
